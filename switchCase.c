@@ -39,6 +39,7 @@ void main()
         default:
             printf("Enter a valid choice!!");
             break;
-        }
+            case 5:
+            printf("Divide")
     }
 }
